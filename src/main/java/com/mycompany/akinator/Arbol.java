@@ -40,7 +40,7 @@ public class Arbol {
         }else{
             System.out.print("que de diferente tiene? \n");
         }
-        personaje = entrada.next();
+        personaje = entrada.nextLine();
         return personaje;
     } 
     
